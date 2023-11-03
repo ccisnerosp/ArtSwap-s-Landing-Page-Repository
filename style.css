@@ -1,0 +1,674 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 3611px;
+  position: relative;
+}
+
+.desktop .overlap-wrapper {
+  position: absolute;
+  width: 1440px;
+  height: 3359px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.desktop .overlap {
+  position: relative;
+  height: 3341px;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 3341px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 880px;
+  height: 3269px;
+  top: 72px;
+  left: 2px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 1330px;
+  left: 496px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 1702px;
+  left: 497px;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 1440px;
+  height: 263px;
+  top: 653px;
+  left: 0;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 1440px;
+  height: 497px;
+  top: 1841px;
+  left: 0;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 1440px;
+  height: 83px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  width: 195px;
+  height: 58px;
+  top: 14px;
+  left: 80px;
+}
+
+.desktop .AFILIADOS {
+  position: absolute;
+  width: 175px;
+  height: 23px;
+  top: 982px;
+  left: 62px;
+}
+
+.desktop .ELIGE-TU-PLAN {
+  position: absolute;
+  width: 252px;
+  height: 23px;
+  top: 1890px;
+  left: 49px;
+}
+
+.desktop .disfruta-de-artswap {
+  position: absolute;
+  width: 373px;
+  height: 66px;
+  top: 2518px;
+  left: 533px;
+}
+
+.desktop .descarga-la-app-con {
+  position: absolute;
+  width: 327px;
+  height: 34px;
+  top: 2788px;
+  left: 555px;
+}
+
+.desktop .proporcionar-a-la {
+  position: absolute;
+  width: 327px;
+  height: 123px;
+  top: 3084px;
+  left: 232px;
+}
+
+.desktop .nuestro-objetivo-es {
+  position: absolute;
+  width: 325px;
+  height: 145px;
+  top: 3072px;
+  left: 890px;
+}
+
+.desktop .QR {
+  position: absolute;
+  width: 42px;
+  height: 28px;
+  top: 2679px;
+  left: 699px;
+}
+
+.desktop .misin {
+  position: absolute;
+  width: 71px;
+  height: 18px;
+  top: 2955px;
+  left: 360px;
+}
+
+.desktop .rectangle-6 {
+  position: absolute;
+  width: 1393px;
+  height: 496px;
+  top: 124px;
+  left: 23px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-7 {
+  position: absolute;
+  width: 222px;
+  height: 225px;
+  top: 2047px;
+  left: 478px;
+}
+
+.desktop .rectangle-8 {
+  position: absolute;
+  width: 431px;
+  height: 224px;
+  top: 3034px;
+  left: 180px;
+}
+
+.desktop .rectangle-9 {
+  position: absolute;
+  width: 431px;
+  height: 224px;
+  top: 3034px;
+  left: 828px;
+}
+
+.desktop .rectangle-10 {
+  position: absolute;
+  width: 222px;
+  height: 225px;
+  top: 2047px;
+  left: 745px;
+}
+
+.desktop .rectangle-11 {
+  position: absolute;
+  width: 170px;
+  height: 148px;
+  top: 2620px;
+  left: 634px;
+}
+
+.desktop .rectangle-12 {
+  position: absolute;
+  width: 528px;
+  height: 32px;
+  top: 536px;
+  left: 456px;
+}
+
+.desktop .inicio {
+  position: absolute;
+  width: 44px;
+  height: 13px;
+  top: 34px;
+  left: 406px;
+}
+
+.desktop .el-arte-a-tu-medida {
+  position: absolute;
+  width: 413px;
+  height: 15px;
+  top: 548px;
+  left: 514px;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 416px;
+  height: 119px;
+  top: 765px;
+  left: 56px;
+}
+
+.desktop .museo-de-los {
+  position: absolute;
+  width: 165px;
+  height: 11px;
+  top: 1414px;
+  left: 435px;
+}
+
+.desktop .sala-luis-miro {
+  position: absolute;
+  width: 171px;
+  height: 14px;
+  top: 1033px;
+  left: 433px;
+}
+
+.desktop .artswap-premium-te {
+  position: absolute;
+  width: 730px;
+  height: 56px;
+  top: 1967px;
+  left: 357px;
+}
+
+.desktop .museo-de-arte {
+  position: absolute;
+  width: 216px;
+  height: 16px;
+  top: 1486px;
+  left: 788px;
+}
+
+.desktop .explora-un-catlogo {
+  position: absolute;
+  width: 383px;
+  height: 80px;
+  top: 770px;
+  left: 767px;
+}
+
+.desktop .contacto {
+  position: absolute;
+  width: 68px;
+  height: 13px;
+  top: 33px;
+  left: 936px;
+}
+
+.desktop .planes {
+  position: absolute;
+  width: 51px;
+  height: 13px;
+  top: 33px;
+  left: 584px;
+}
+
+.desktop .nosotros {
+  position: absolute;
+  width: 69px;
+  height: 13px;
+  top: 34px;
+  left: 746px;
+}
+
+.desktop .rectangle-13 {
+  position: absolute;
+  width: 267px;
+  height: 53px;
+  top: 19px;
+  left: 1096px;
+}
+
+.desktop .iniciar-sesin {
+  position: absolute;
+  width: 100px;
+  height: 12px;
+  top: 36px;
+  left: 1115px;
+}
+
+.desktop .registrarme {
+  position: absolute;
+  width: 89px;
+  height: 16px;
+  top: 36px;
+  left: 1250px;
+}
+
+.desktop .ARTSWAP {
+  position: absolute;
+  width: 86px;
+  height: 13px;
+  top: 32px;
+  left: 166px;
+}
+
+.desktop .imagen {
+  position: absolute;
+  width: 78px;
+  height: 46px;
+  top: 14px;
+  left: 83px;
+  object-fit: cover;
+}
+
+.desktop .COMPRADORES {
+  position: absolute;
+  width: 196px;
+  height: 19px;
+  top: 705px;
+  left: 768px;
+}
+
+.desktop .ARTISTAS {
+  position: absolute;
+  width: 124px;
+  height: 19px;
+  top: 704px;
+  left: 61px;
+}
+
+.desktop .rectangle-14 {
+  position: absolute;
+  width: 138px;
+  height: 182px;
+  top: 700px;
+  left: 517px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-15 {
+  position: absolute;
+  width: 242px;
+  height: 232px;
+  top: 1454px;
+  left: 397px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-16 {
+  position: absolute;
+  width: 263px;
+  height: 245px;
+  top: 1072px;
+  left: 387px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-17 {
+  position: absolute;
+  width: 270px;
+  height: 229px;
+  top: 1144px;
+  left: 773px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-18 {
+  position: absolute;
+  width: 144px;
+  height: 182px;
+  top: 704px;
+  left: 1256px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-19 {
+  position: absolute;
+  width: 8px;
+  height: 320px;
+  top: 654px;
+  left: 716px;
+}
+
+.desktop .image {
+  width: 26px;
+  height: 26px;
+  top: 1335px;
+  left: 505px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-2 {
+  width: 26px;
+  height: 26px;
+  top: 1708px;
+  left: 506px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .MENSUAL {
+  position: absolute;
+  width: 98px;
+  height: 14px;
+  top: 2104px;
+  left: 540px;
+}
+
+.desktop .por-mes-despus-de-la {
+  position: absolute;
+  width: 176px;
+  height: 13px;
+  top: 2191px;
+  left: 501px;
+}
+
+.desktop .por-mes-despus-de-la-2 {
+  position: absolute;
+  width: 176px;
+  height: 13px;
+  top: 2191px;
+  left: 767px;
+}
+
+.desktop .ANUAL {
+  position: absolute;
+  width: 71px;
+  height: 14px;
+  top: 2104px;
+  left: 820px;
+}
+
+.desktop .element-USD {
+  position: absolute;
+  width: 74px;
+  height: 17px;
+  top: 2150px;
+  left: 552px;
+}
+
+.desktop .element-USD-2 {
+  position: absolute;
+  width: 84px;
+  height: 17px;
+  top: 2150px;
+  left: 814px;
+}
+
+.desktop .ellipse {
+  top: 2071px;
+  left: 586px;
+  position: absolute;
+  width: 7px;
+  height: 7px;
+}
+
+.desktop .ellipse-2 {
+  top: 2066px;
+  left: 851px;
+  position: absolute;
+  width: 7px;
+  height: 7px;
+}
+
+.desktop .rectangle-20 {
+  position: absolute;
+  width: 142px;
+  height: 27px;
+  top: 2225px;
+  left: 518px;
+}
+
+.desktop .rectangle-21 {
+  position: absolute;
+  width: 142px;
+  height: 27px;
+  top: 2225px;
+  left: 785px;
+}
+
+.desktop .rectangle-22 {
+  position: absolute;
+  width: 88px;
+  height: 86px;
+  top: 2408px;
+  left: 678px;
+  object-fit: cover;
+}
+
+.desktop .COMPRAR-AHORA {
+  position: absolute;
+  width: 106px;
+  height: 9px;
+  top: 2235px;
+  left: 537px;
+}
+
+.desktop .COMPRAR-AHORA-2 {
+  position: absolute;
+  width: 106px;
+  height: 9px;
+  top: 2235px;
+  left: 803px;
+}
+
+.desktop .image-3 {
+  width: 21px;
+  height: 24px;
+  top: 2839px;
+  left: 694px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .image-4 {
+  width: 26px;
+  height: 27px;
+  top: 2837px;
+  left: 723px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .rectangle-23 {
+  position: absolute;
+  width: 304px;
+  height: 210px;
+  top: 1526px;
+  left: 756px;
+  object-fit: cover;
+}
+
+.desktop .image-wrapper {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 1387px;
+  left: 885px;
+  background-image: url(./img/rectangle-82.png);
+  background-size: 100% 100%;
+}
+
+.desktop .image-5 {
+  width: 26px;
+  height: 26px;
+  top: 5px;
+  left: 10px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .img-wrapper {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 1750px;
+  left: 885px;
+  background-image: url(./img/rectangle-85.png);
+  background-size: 100% 100%;
+}
+
+.desktop .image-6 {
+  width: 26px;
+  height: 26px;
+  top: 5px;
+  left: 9px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.desktop .visin {
+  position: absolute;
+  width: 66px;
+  height: 18px;
+  top: 2955px;
+  left: 1019px;
+}
+
+.desktop .MALI {
+  position: absolute;
+  width: 41px;
+  height: 11px;
+  top: 1104px;
+  left: 887px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1438px;
+  height: 236px;
+  top: 3375px;
+  left: 0;
+  background-image: url(./img/rectangle-89.png);
+  background-size: 100% 100%;
+}
+
+.desktop .necesitas-ayuda {
+  position: absolute;
+  width: 138px;
+  height: 91px;
+  top: 46px;
+  left: 264px;
+}
+
+.desktop .comunidad-telegram {
+  position: absolute;
+  width: 159px;
+  height: 91px;
+  top: 47px;
+  left: 987px;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 1438px;
+  height: 229px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 1px;
+  height: 189px;
+  top: 0;
+  left: 716px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-24 {
+  position: absolute;
+  width: 1438px;
+  height: 70px;
+  top: 159px;
+  left: 0;
+}
+
+.desktop .preguntas-frecuentes {
+  position: absolute;
+  width: 413px;
+  height: 15px;
+  top: 192px;
+  left: 510px;
+}
